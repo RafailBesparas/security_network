@@ -4,5 +4,3 @@ numpy
 pymongo
 setuptools
 certify
-
--e .
