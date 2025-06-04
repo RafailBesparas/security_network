@@ -11,6 +11,8 @@ networksecurity/components/__init__.py
 networksecurity/constant/__init__.py
 networksecurity/entity/__init__.py
 networksecurity/exception_handling/__init__.py
+networksecurity/exception_handling/exception.py
 networksecurity/logging/__init__.py
+networksecurity/logging/logger.py
 networksecurity/pipeline/__init__.py
 networksecurity/utilis/__init__.py
